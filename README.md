@@ -1,10 +1,20 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando a página inicial do Instagram :camera:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
-### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Desafio do curso de CSS da plataforma DIO para criação da página inicial do Instagram. 
 
-## 🚀 Let's code! 🚀
+
+
+### O que foi feito:
+
+* Atualização do código para recriar a página inicial do Instagram atual (22/06/22)
+* Alteração da imagem de perfil
+* Alteração do usuário
+
+
+
+### Futuras Melhorias:
+
+- Inclusão do rodapé.
+
